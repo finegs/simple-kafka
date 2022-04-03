@@ -8,6 +8,7 @@ import java.util.Properties;
 
 public class SimpleKafkaProducer {
 
+
     public static void main(String[] args) {
         Properties configs = new Properties();
         configs.put("bootstrap.servers", "localhost:9092"); // kafka host 및 server 설정
