@@ -30,3 +30,9 @@ public class SimpleKafkaProducer {
         producer.close();
     }
 }
+
+
+
+
+
+
